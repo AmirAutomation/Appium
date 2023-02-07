@@ -4,9 +4,9 @@ Proyecto base para la automatizacion con Appium y lengueaje de programacion Java
 Info. configuracion mobile en senerity.properties
 
 ## **Herramientas**
-*Gradle
-*Java
-*Android Studio
+* Gradle
+* Java
+* Android Studio
 
 ## **Versiones**
 | Name      | Version |  
