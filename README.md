@@ -7,6 +7,11 @@ Info. configuracion mobile en senerity.properties
 * Gradle
 * Java
 * Android Studio
+* Appium Desktop
+* Appium Inspector
+
+## **Driver***
+* uiautomator2
 
 ## **Versiones**
 | Name      | Version |  
@@ -17,5 +22,6 @@ Info. configuracion mobile en senerity.properties
 
 ```
 appium.deviceName = ESU4C18A16000384
-appium.platformVersion = 9
+appium.platformVersion = 13.0
 ```
+
