@@ -1,3 +1,7 @@
+package tests;
+
+import PageObjects.CreateTaskPage;
+import PageObjects.TasksListPage;
 import org.junit.Test;
 
 import java.net.MalformedURLException;
